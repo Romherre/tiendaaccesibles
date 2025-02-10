@@ -1,0 +1,38 @@
+.titulopagina__titulo{
+    color: #fff;
+    font-family:font_titulo;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.nav__links, .nav__login{
+    color: #fff;
+    font-family:font_titulo;
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+}    
+.texto__redes{
+    color: #fff;
+    font-family:font_titulo;
+    font-size:15px;
+    font-weight: lighter;   
+}
+.nombre__juegos
+{
+    color: black;
+    font-family:font_titulo;
+    font-size:12px;
+    font-weight: lighter;   
+    text-decoration: none;
+}
+
+
+.nombre__juegos3
+{
+    color: white;
+    font-family:font_titulo;
+    font-size:12px;
+    font-weight: lighter;   
+    text-decoration: none;
+}
